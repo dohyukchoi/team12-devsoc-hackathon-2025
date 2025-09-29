@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Privacy Policy & TOS Analyzer",
+  "version": "1.0",
+  "description": "Uses Gemini to analyze a webpage's text for potential issues in its Privacy Policy or Terms of Service.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Analyze Page"
+  }
+}
