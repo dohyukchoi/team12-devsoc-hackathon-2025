@@ -20,3 +20,7 @@ A browser extension built by UNSW students to enhance privacy policy understandi
    ```bash
    git clone git@github.com:TeamName/privacy-ai-extension.git
    cd privacy-ai-extension
+2. Unpack the folder, then run `npm install` to install dependencies.
+3. Run `npm run build` to build the extension.
+4. Enter `chrome://extensions/` into Google Chrome's search bar, then turn on Developer Mode.
+5. Click "Load unpacked" and upload the "dist" folder.
