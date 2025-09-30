@@ -4,6 +4,12 @@
 
 A browser extension built by UNSW students to enhance privacy policy understanding and data protection awareness while browsing.
 
+## Team Members
+* Ethan Woo
+* Elina Jain
+* Jennifer Chen
+* Eric Choi
+
 ## 🚀 Features
 - Detects and warns about potential tracking scripts.
 - Provides quick toggles for cookie and script blocking.
