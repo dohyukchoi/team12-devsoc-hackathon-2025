@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Privacy Policy & TOS Analyzer",
+  "description": "A tool that uses Gemini to check and flag potential issues with a website's Privacy Policy or Terms of Service. Users can paste text to have it analyzed for relevance and potential concerns.",
+  "requestFramePermissions": []
+}
